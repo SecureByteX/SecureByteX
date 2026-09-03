@@ -11,6 +11,7 @@
 <p>
 <a href="https://sanjay-aakish.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C7B7?style=for-the-badge" />
+
 </a>
 
 <a href="https://www.linkedin.com/in/sanjay-aakish">
@@ -65,7 +66,6 @@ Improve Automated Response
 * Network Intrusion Detection Systems
 * Adversarial Machine Learning
 * Explainable AI (XAI)
-* Early-Stage Ransomware Detection
 * Autonomous SOC Systems
 
 ---
@@ -233,12 +233,6 @@ Incident Response Recommendation
 
 # GITHUB ACTIVITY
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SecureByteX&show_icons=true&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecureByteX&layout=compact&hide_border=true"/>
-
 </div>
 
 <div align="center">
@@ -248,44 +242,6 @@ Incident Response Recommendation
 </div>
 
 ---
-
-# PROFESSIONAL GOAL
-
-> **To build intelligent cybersecurity systems that can detect, understand, and respond to emerging cyber threats.**
-
-```text
-Cybersecurity
-      +
-Artificial Intelligence
-      +
-Threat Detection
-      =
-Intelligent Cyber Defense
-```
-
----
-
-# LET'S CONNECT
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sanjay-aakish">
-<img src="https://img.shields.io/badge/LinkedIn-Sanjay%20Aakish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://sanjay-aakish.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C7B7?style=for-the-badge"/>
-</a>
-
-<a href="mailto:sanjayaakish8229@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ### Secure • Detect • Analyze • Defend
 
