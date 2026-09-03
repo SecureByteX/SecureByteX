@@ -1,16 +1,311 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SecureByteX/SecureByteX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ Sanjay Aakish T S
 
-Here are some ideas to get you started:
+### Cybersecurity • AI Security • Threat Detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Security+Systems;AI-Powered+Threat+Detection;Network+Security+%7C+Intrusion+Detection;Exploring+the+Future+of+AI+Security" />
+</p>
+
+<p>
+<a href="https://sanjay-aakish.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C7B7?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/sanjay-aakish">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sanjayaakish8229@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```text
+🛡️ Domain        : AI & Cybersecurity
+🚨 Focus         : Threat Detection & Network Security
+🤖 Research      : Adversarial ML & Explainable AI
+🔬 Building      : Intelligent Security Systems
+🎓 Education     : B.Tech CSE — Cybersecurity
+⚡ Mission       : Detect. Analyze. Defend.
+```
+
+I am a Cybersecurity student focused on building practical security systems using **Artificial Intelligence, Machine Learning, Network Analysis, and Threat Detection**.
+
+My work explores how intelligent systems can identify cyber threats, analyze suspicious behavior, and improve security response.
+
+---
+
+# 🔐 SECURITY FOCUS
+
+<div align="center">
+
+| 🛡️ Cybersecurity   | 🤖 AI Security   | 🚨 Threat Detection |
+| ------------------- | ---------------- | ------------------- |
+| Network Security    | Adversarial ML   | Intrusion Detection |
+| Ethical Hacking     | Explainable AI   | Network Analysis    |
+| Security Monitoring | Machine Learning | Threat Intelligence |
+
+</div>
+
+---
+
+# 🔭 CURRENT MISSION
+
+### 🧠 Building the Next Generation of Intelligent Security Systems
+
+```text
+🔴 Detect Network Attacks
+        ↓
+🟠 Analyze Suspicious Behaviour
+        ↓
+🟡 Apply AI & Machine Learning
+        ↓
+🟢 Explain Security Decisions
+        ↓
+🔵 Improve Automated Response
+```
+
+### Currently Exploring
+
+* 🧠 AI-Driven Threat Detection
+* 🛡️ Network Intrusion Detection Systems
+* ⚔️ Adversarial Machine Learning
+* 🔍 Explainable AI (XAI)
+* 🦠 Early-Stage Ransomware Detection
+* 🤖 Autonomous SOC Systems
+* ☁️ Cloud Security
+
+---
+
+# 🛠️ TECH STACK
+
+### 💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+
+</p>
+
+### 🛡️ Cybersecurity & Networking
+
+<p>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge"/>
+
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XAI-Explainable%20AI-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SHAP-Explainability-FF4081?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LIME-Explainability-43A047?style=for-the-badge"/>
+
+</p>
+
+### 🧰 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+---
+
+# 🔥 FEATURED SECURITY PROJECTS
+
+## 🛡️ AI-Enhanced Defense Against MITM Attacks
+
+> **Machine Learning-Based Network Threat Detection**
+
+🎯 **97.3% Detection Accuracy**
+
+* 🔍 Detects suspicious MITM activity
+* 🤖 Uses XGBoost, SVM & KNN
+* 🌐 Analyzes network traffic
+* 📊 Interactive Streamlit dashboard
+
+**Core Technologies**
+
+`Python` `Machine Learning` `XGBoost` `SVM` `KNN` `Streamlit`
+
+🔗 **Repository:** https://github.com/SecureByteX/AI-MITM-Attack-Detection
+
+---
+
+## 🚨 Network Intrusion Detection System
+
+> **Real-Time Network Threat Detection & Behaviour Analysis**
+
+### Detecting
+
+```text
+🚨 DoS Attacks
+🔍 Port Scanning
+📡 Abnormal Network Behaviour
+⚠️ Suspicious Traffic
+```
+
+* 📊 Interactive security dashboard
+* 🔔 Real-time threat alerts
+* 🌐 Network traffic visualization
+* 🔐 Authentication and reporting
+
+🔗 **Repository:** https://github.com/SecureByteX/Network-Intrusion-Detection-System
+
+---
+
+## 🤖 Adversarial AI Security Research
+
+> **Adversarial Attacks Against Explainable AI-Driven NIDS**
+
+### Research Results
+
+```text
+Original Detection Accuracy
+████████████████████ 80.72%
+
+After Adversarial Testing
+████████████████    65.05%
+```
+
+🔬 Research Focus:
+
+* 🧠 Explainable AI
+* 🔍 SHAP
+* 🔎 LIME
+* ⚔️ Adversarial Machine Learning
+* 🚨 Network Intrusion Detection
+
+🔗 **Repository:** https://github.com/SecureByteX/Adversarial-AI-Network-Intrusion-Detection
+
+---
+
+# 🚀 CURRENTLY BUILDING
+
+## 🤖 AI-Driven Autonomous SOC
+
+### Threat Detection → Investigation → Response
+
+```text
+Security Logs
+      ↓
+AI Threat Detection
+      ↓
+Automated Investigation
+      ↓
+MITRE ATT&CK Mapping
+      ↓
+Incident Response Recommendation
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+🥇 **Winner — Multiverse National Level Hackathon 2026**
+
+🚀 **Participant — Build With India Hackathon 2025**
+
+💼 **Python Development Intern — Cognifyz Technologies**
+
+🛡️ **Cybersecurity Intern — Prodigy InfoTech**
+
+---
+
+# 📜 CERTIFICATIONS
+
+🏅 Network Defence Essentials (NDE)
+
+🏅 Ethical Hacking
+
+🏅 Linux Basics — Command Line Interface
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SecureByteX&show_icons=true&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecureByteX&layout=compact&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SecureByteX&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 PROFESSIONAL GOAL
+
+> **To build intelligent cybersecurity systems that can detect, understand, and respond to emerging cyber threats.**
+
+```text
+🛡️ Cybersecurity
+      +
+🤖 Artificial Intelligence
+      +
+🚨 Threat Detection
+      =
+🔐 Intelligent Cyber Defense
+```
+
+---
+
+# 📫 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sanjay-aakish">
+<img src="https://img.shields.io/badge/LinkedIn-Sanjay%20Aakish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sanjay-aakish.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C7B7?style=for-the-badge"/>
+</a>
+
+<a href="mailto:sanjayaakish8229@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 Secure • Detect • Analyze • Defend
+
+⭐ *Explore my repositories and join me in building a safer digital world.*
+
+</div>
