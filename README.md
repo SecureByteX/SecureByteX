@@ -137,7 +137,7 @@ Improve Automated Response
 
 `Python` `Machine Learning` `XGBoost` `SVM` `KNN` `Streamlit`
 
-**Repository:** https://github.com/SecureByteX/AI-MITM-Attack-Detection
+**Repository:** https://github.com/SecureByteX/AI-Enhanced-MITM
 
 ---
 
@@ -159,8 +159,7 @@ Suspicious Traffic
 * Network traffic visualization
 * Authentication and reporting
 
-**Repository:** https://github.com/SecureByteX/Network-Intrusion-Detection-System
-
+**Repository:** https://github.com/SecureByteX/Network-Intrusion-Detection-and-Traffic-Behavior-Analysis-System
 ---
 
 ## Adversarial AI Security Research
@@ -185,7 +184,7 @@ Research Focus:
 * Adversarial Machine Learning
 * Network Intrusion Detection
 
-**Repository:** https://github.com/SecureByteX/Adversarial-AI-Network-Intrusion-Detection
+**Repository:** https://github.com/SecureByteX/Adversarial-Attacks-on-Explainable-AI-Driven-Network-Intrusion-Detection-Systems
 
 ---
 
