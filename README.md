@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Sanjay Aakish T S
+# Sanjay Aakish T S
 
 ### Cybersecurity • AI Security • Threat Detection
 
@@ -26,15 +26,15 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 ```text
-🛡️ Domain        : AI & Cybersecurity
-🚨 Focus         : Threat Detection & Network Security
-🤖 Research      : Adversarial ML & Explainable AI
-🔬 Building      : Intelligent Security Systems
-🎓 Education     : B.Tech CSE — Cybersecurity
-⚡ Mission       : Detect. Analyze. Defend.
+Domain        : Cybersecurity
+Focus         : Threat Detection & Network Security
+Research      : Adversarial ML & Explainable AI
+Building      : Intelligent Security Systems
+Education     : B.Tech CSE — Cybersecurity
+Mission       : Detect. Analyze. Defend.
 ```
 
 I am a Cybersecurity student focused on building practical security systems using **Artificial Intelligence, Machine Learning, Network Analysis, and Threat Detection**.
@@ -43,51 +43,36 @@ My work explores how intelligent systems can identify cyber threats, analyze sus
 
 ---
 
-# 🔐 SECURITY FOCUS
+# CURRENT MISSION
 
-<div align="center">
-
-| 🛡️ Cybersecurity   | 🤖 AI Security   | 🚨 Threat Detection |
-| ------------------- | ---------------- | ------------------- |
-| Network Security    | Adversarial ML   | Intrusion Detection |
-| Ethical Hacking     | Explainable AI   | Network Analysis    |
-| Security Monitoring | Machine Learning | Threat Intelligence |
-
-</div>
-
----
-
-# 🔭 CURRENT MISSION
-
-### 🧠 Building the Next Generation of Intelligent Security Systems
+### Building the Next Generation of Intelligent Security Systems
 
 ```text
-🔴 Detect Network Attacks
+Detect Network Attacks
         ↓
-🟠 Analyze Suspicious Behaviour
+Analyze Suspicious Behaviour
         ↓
-🟡 Apply AI & Machine Learning
+Apply AI & Machine Learning
         ↓
-🟢 Explain Security Decisions
+Explain Security Decisions
         ↓
-🔵 Improve Automated Response
+Improve Automated Response
 ```
 
 ### Currently Exploring
 
-* 🧠 AI-Driven Threat Detection
-* 🛡️ Network Intrusion Detection Systems
-* ⚔️ Adversarial Machine Learning
-* 🔍 Explainable AI (XAI)
-* 🦠 Early-Stage Ransomware Detection
-* 🤖 Autonomous SOC Systems
-* ☁️ Cloud Security
+* AI-Driven Threat Detection
+* Network Intrusion Detection Systems
+* Adversarial Machine Learning
+* Explainable AI (XAI)
+* Early-Stage Ransomware Detection
+* Autonomous SOC Systems
 
 ---
 
-# 🛠️ TECH STACK
+# TECH STACK
 
-### 💻 Programming
+### Programming
 
 <p>
 
@@ -95,7 +80,7 @@ My work explores how intelligent systems can identify cyber threats, analyze sus
 
 </p>
 
-### 🛡️ Cybersecurity & Networking
+### Cybersecurity & Networking
 
 <p>
 
@@ -109,11 +94,9 @@ My work explores how intelligent systems can identify cyber threats, analyze sus
 
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 
@@ -125,7 +108,7 @@ My work explores how intelligent systems can identify cyber threats, analyze sus
 
 </p>
 
-### 🧰 Development Tools
+### Development Tools
 
 <p>
 
@@ -137,50 +120,50 @@ My work explores how intelligent systems can identify cyber threats, analyze sus
 
 ---
 
-# 🔥 FEATURED SECURITY PROJECTS
+# FEATURED SECURITY PROJECTS
 
-## 🛡️ AI-Enhanced Defense Against MITM Attacks
+## AI-Enhanced Defense Against MITM Attacks
 
 > **Machine Learning-Based Network Threat Detection**
 
-🎯 **97.3% Detection Accuracy**
+**97.3% Detection Accuracy**
 
-* 🔍 Detects suspicious MITM activity
-* 🤖 Uses XGBoost, SVM & KNN
-* 🌐 Analyzes network traffic
-* 📊 Interactive Streamlit dashboard
+* Detects suspicious MITM activity
+* Uses XGBoost, SVM & KNN
+* Analyzes network traffic
+* Interactive Streamlit dashboard
 
 **Core Technologies**
 
 `Python` `Machine Learning` `XGBoost` `SVM` `KNN` `Streamlit`
 
-🔗 **Repository:** https://github.com/SecureByteX/AI-MITM-Attack-Detection
+**Repository:** https://github.com/SecureByteX/AI-MITM-Attack-Detection
 
 ---
 
-## 🚨 Network Intrusion Detection System
+## Network Intrusion Detection System
 
 > **Real-Time Network Threat Detection & Behaviour Analysis**
 
 ### Detecting
 
 ```text
-🚨 DoS Attacks
-🔍 Port Scanning
-📡 Abnormal Network Behaviour
-⚠️ Suspicious Traffic
+DoS Attacks
+Port Scanning
+Abnormal Network Behaviour
+Suspicious Traffic
 ```
 
-* 📊 Interactive security dashboard
-* 🔔 Real-time threat alerts
-* 🌐 Network traffic visualization
-* 🔐 Authentication and reporting
+* Interactive security dashboard
+* Real-time threat alerts
+* Network traffic visualization
+* Authentication and reporting
 
-🔗 **Repository:** https://github.com/SecureByteX/Network-Intrusion-Detection-System
+**Repository:** https://github.com/SecureByteX/Network-Intrusion-Detection-System
 
 ---
 
-## 🤖 Adversarial AI Security Research
+## Adversarial AI Security Research
 
 > **Adversarial Attacks Against Explainable AI-Driven NIDS**
 
@@ -194,33 +177,21 @@ After Adversarial Testing
 ████████████████    65.05%
 ```
 
-🔬 Research Focus:
+Research Focus:
 
-* 🧠 Explainable AI
-* 🔍 SHAP
-* 🔎 LIME
-* ⚔️ Adversarial Machine Learning
-* 🚨 Network Intrusion Detection
+* Explainable AI
+* SHAP
+* LIME
+* Adversarial Machine Learning
+* Network Intrusion Detection
 
-🔗 **Repository:** https://github.com/SecureByteX/Adversarial-AI-Network-Intrusion-Detection
+**Repository:** https://github.com/SecureByteX/Adversarial-AI-Network-Intrusion-Detection
 
 ---
 
-# 🚀 CURRENTLY BUILDING
+# CURRENTLY BUILDING
 
-🦠 Neuro-Symbolic AI Framework for Early-Stage Ransomware Detection
-
-Building an intelligent framework combining:
-
-Machine Learning
-        +
-Symbolic Reasoning
-        +
-Network Behaviour Analysis
-        ↓
-Early Ransomware Detection
-
-## 🤖 AI-Driven Autonomous SOC
+## AI-Driven Autonomous SOC
 
 ### Threat Detection → Investigation → Response
 
@@ -238,29 +209,29 @@ Incident Response Recommendation
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# ACHIEVEMENTS
 
-🥇 **Winner — Multiverse National Level Hackathon 2026**
+ **Winner — Multiverse National Level Hackathon 2026**
 
-🚀 **Participant — Build With India Hackathon 2025**
+ **Participant — Build With India Hackathon 2025**
 
-💼 **Python Development Intern — Cognifyz Technologies**
+ **Python Development Intern — Cognifyz Technologies**
 
-🛡️ **Cybersecurity Intern — Prodigy InfoTech**
-
----
-
-# 📜 CERTIFICATIONS
-
-🏅 Network Defence Essentials (NDE)
-
-🏅 Ethical Hacking
-
-🏅 Linux Basics — Command Line Interface
+ **Cybersecurity Intern — Prodigy InfoTech**
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# CERTIFICATIONS
+
+ Network Defence Essentials (NDE)
+
+ Ethical Hacking
+
+ Linux Basics — Command Line Interface
+
+---
+
+# GITHUB ACTIVITY
 
 <div align="center">
 
@@ -278,23 +249,23 @@ Incident Response Recommendation
 
 ---
 
-# 🎯 PROFESSIONAL GOAL
+# PROFESSIONAL GOAL
 
 > **To build intelligent cybersecurity systems that can detect, understand, and respond to emerging cyber threats.**
 
 ```text
-🛡️ Cybersecurity
+Cybersecurity
       +
-🤖 Artificial Intelligence
+Artificial Intelligence
       +
-🚨 Threat Detection
+Threat Detection
       =
-🔐 Intelligent Cyber Defense
+Intelligent Cyber Defense
 ```
 
 ---
 
-# 📫 LET'S CONNECT
+# LET'S CONNECT
 
 <div align="center">
 
@@ -316,8 +287,8 @@ Incident Response Recommendation
 
 <div align="center">
 
-### 🔐 Secure • Detect • Analyze • Defend
+### Secure • Detect • Analyze • Defend
 
-⭐ *Explore my repositories and join me in building a safer digital world.*
+*Explore my repositories and join me in building a safer digital world.*
 
 </div>
