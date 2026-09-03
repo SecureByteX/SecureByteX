@@ -208,6 +208,18 @@ After Adversarial Testing
 
 # 🚀 CURRENTLY BUILDING
 
+🦠 Neuro-Symbolic AI Framework for Early-Stage Ransomware Detection
+
+Building an intelligent framework combining:
+
+Machine Learning
+        +
+Symbolic Reasoning
+        +
+Network Behaviour Analysis
+        ↓
+Early Ransomware Detection
+
 ## 🤖 AI-Driven Autonomous SOC
 
 ### Threat Detection → Investigation → Response
